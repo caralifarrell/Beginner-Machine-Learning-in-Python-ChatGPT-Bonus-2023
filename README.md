@@ -1,5 +1,5 @@
 # Beginner-Machine-Learning-in-Python-ChatGPT-Bonus-2023
-
+This course aims to help build a solid foundation in Machine Learning using various tools such as Linear Regression, Logistic Regression and K-Means Clustering in Python.
 ## Online Course
 This repository exhibits the projects completed throughout the "Beginner Machine Learning in Python + ChatGPT Bonus" course, which can be found here: 
 [2023]https://www.udemy.com/course/machine-learning-python-level-1/
